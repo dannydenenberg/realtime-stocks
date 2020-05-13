@@ -1,4 +1,14 @@
+# realtime-stocks
+
+View stock prices in realtime using ticker symbols
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Developmental Information
+
+### Proxy
+
+During development, all requests from the React client are proxied through the port specified in the `proxy` property of the `package.json` file. Its default value is 8080.
 
 ## Available Scripts
 
