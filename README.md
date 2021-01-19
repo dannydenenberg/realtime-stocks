@@ -1,5 +1,7 @@
 # realtime-stocks
 
+![](public/stock-app-example.gif)
+
 View stock prices in realtime using ticker symbols
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
